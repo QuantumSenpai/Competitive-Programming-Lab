@@ -23,11 +23,11 @@ Organized **question-wise** — each question gets its own folder containing its
 ```
 Competitive-Programming-Lab/
 ├── Q01-<question-title>/
-│   └── solution.cpp
+│   └── solution.c
 ├── Q02-<question-title>/
-│   └── solution.cpp
+│   └── solution.c
 ├── Q03-<question-title>/
-│   └── solution.cpp
+│   └── solution.c
 ├── ...
 └── README.md
 ```
